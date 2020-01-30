@@ -36,6 +36,11 @@ p{
   padding: 5px 12px;
 }
 
+.btn:hover{
+  background-color: #ee8d335e;
+  color: #777;
+}
+
 .currency{
   padding: 40px 0;
   display: flex;
